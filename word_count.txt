@@ -1,0 +1,2 @@
+ word count : 5 I love JavaI love ML
+ word count : 3 I love DS
