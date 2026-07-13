@@ -1,5 +1,4 @@
-# Data_science_Project
-Data extraction and Text analysis
+# Data-science-Project-1
+Credit card fraud detection model
 
-The objective is to extract textual data articles from the URL and perform text analysis to compute variables that are explained below. 
-
+Task : Build a model to detect fraudulent transactions or activities by identifying anomalies in financial or behavioral data.
