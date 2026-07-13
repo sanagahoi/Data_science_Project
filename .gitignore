@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Machine Learning Models (Keep these out to save space)
+model_joblib
+model_pkl
+*.pkl
+*.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db
