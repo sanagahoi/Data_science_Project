@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web-scraping-Assignment
 Sample project
 
@@ -24,3 +25,7 @@ With the Product URL received in the above case, hit each URL, and add below ite
 • ASIN
 • Product Description
 • Manufacturer
+=======
+# finacial-data-extraction
+data exploration
+>>>>>>> repo-remote/main
